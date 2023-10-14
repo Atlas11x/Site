@@ -1,0 +1,24 @@
+body {
+    background-color: #f2f2f2;
+}
+
+button {
+
+    font-weight: bold;
+    border: 5;
+    margin: 0 auto;
+    display: block;
+    font-size: 25pt;
+   }
+
+.standart{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bn{
+    font-size: 22pt;
+}
+
+.sn{
+    font-size: 19pt;
+}
